@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DingYonghuan
+- 👋 Hi, I’m DingYongHuan
 - 👀 I’m interested in learning about new things.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
